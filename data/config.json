@@ -1,0 +1,19 @@
+{
+    "config": [
+        {
+            "url_x": 420,
+            "url_y": 59,
+            "yt_x": 588,
+            "yt_y": 160,
+            "video_x": 640,
+            "video_y": 371,
+            "videoname": "Twice Can't Stop Me",
+            "videoduration": 210,
+            "othervids": [
+                "KDA More",
+                "Fabulous Sonny Oh",
+                "Exo mmmh Teaser"
+            ]
+        }
+    ]
+}
