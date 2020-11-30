@@ -31,6 +31,6 @@ No, the bot simulates mouse movements and keyboard inputs like there's an actual
 
 
 ## Why I made this bot?
-- Playlists are dum. With this bot, you can farm views "organically."
+- Playlists are dum. With this bot, you can farm views for your favorite music videos "organically."
 - Also it's a good practice for python automation.
 - I also learned some TKinter GUI development with python.
