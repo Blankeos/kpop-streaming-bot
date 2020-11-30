@@ -2,21 +2,17 @@
 A python bot that automates the process of streaming Youtube videos repeatedly.
 
 ## Instructions
-### 1. Open your browser and set maximize the screen.
-
-### 2. Input Coordinates for: (Use the Current Mouse Position to get the X and Y)
+### 1. Open your browser and maximize the screen.
+### 2. Open streaming_app.exe and input Coordinates for: (Use the Current Mouse Position to get the X and Y)
 - Address Bar - This is where the bot will type the URL for youtube.
 - Youtube Search - This is where the bot will type the video name on Youtube
 - Video Click - The first video result after searching.
-
 ### 3. Input other config settings for:
 - Video to Search - Name of the video you want to search. (Make sure it's the first search result)
 - Video Duration - Duration the bot will watch the video for.
 - Other Videos for betweens - The bot will watch these 2 videos, 60 mins each, after watching the main video.
-
 ### 4. Save Config
 - Just click the blue [SAVE] button.
-
 ### 5. Start Automation
 - Make sure the window the browser is opened at fullscreen.
 - The bot will start streaming the kpop videos.
