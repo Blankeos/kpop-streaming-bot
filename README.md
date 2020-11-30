@@ -26,7 +26,7 @@ A python bot that automates the process of streaming Youtube videos repeatedly.
 
 ## FAQ
 ### 1. Can this bot work while I use the computer?
-No, the bot simulates mouse movements and keyboard inputs like there's an actual human person using the computer.
+No, the bot simulates mouse movements and keyboard inputs like there's an actual human person using the computer. The bot owns your computer until you press the [End Program] button
 
 
 
