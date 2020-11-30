@@ -1,6 +1,10 @@
 # kpop-streaming-bot
 A python bot that automates the process of streaming Youtube videos repeatedly.
 
+## How to Download
+### Click [Code] > Download Zip > and extract on your computer.
+![How to Download](https://i.ibb.co/NVLnQ4N/image.png)
+
 ## Instructions
 ### 1. Open your browser and maximize the screen.
 ### 2. Open streaming_app.exe and input Coordinates for: (Use the Current Mouse Position to get the X and Y)
@@ -17,12 +21,14 @@ A python bot that automates the process of streaming Youtube videos repeatedly.
 - Make sure the window the browser is opened at fullscreen.
 - The bot will start streaming the kpop videos.
 
+## Program Screenshot
+![Instruction Screenshot](https://i.ibb.co/RYj4PLJ/image.png)
+
 ## FAQ
 ### 1. Can this bot work while I use the computer?
 No, the bot simulates mouse movements and keyboard inputs like there's an actual human person using the computer.
 
-## Program Screenshot
-![Instruction Screenshot](https://i.ibb.co/RYj4PLJ/image.png)
+
 
 ## Why I made this bot?
 - Playlists are dum. With this bot, you can farm views "organically."
