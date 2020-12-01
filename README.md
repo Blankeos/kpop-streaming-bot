@@ -23,12 +23,11 @@ A python bot that automates the process of streaming Youtube videos repeatedly.
 
 ## Program Screenshot
 ![Instruction Screenshot](https://i.ibb.co/RYj4PLJ/image.png)
+![Demonstration](https://s8.gifyu.com/images/2020-12-01-14-36-16.gif)
 
 ## FAQ
 ### 1. Can this bot work while I use the computer?
 No, the bot simulates mouse movements and keyboard inputs like there's an actual human person using the computer. The bot owns your computer until you press the [End Program] button
-
-
 
 ## Why I made this bot?
 - Playlists are dum. With this bot, you can farm views for your favorite music videos "organically."
