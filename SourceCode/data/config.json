@@ -1,0 +1,19 @@
+{
+    "config": [
+        {
+            "url_x": 420,
+            "url_y": 59,
+            "yt_x": 588,
+            "yt_y": 160,
+            "video_x": 640,
+            "video_y": 371,
+            "videoname": "Hello Adelle",
+            "videoduration": 210,
+            "othervids": [
+                "Bruno Mars 24K",
+                "Fabulous Sonny Oh",
+                "That's Life Frank Sinatra"
+            ]
+        }
+    ]
+}
